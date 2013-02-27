@@ -1,0 +1,25 @@
+{
+  "name": "jepso-ci-config",
+  "version": "1.0.0",
+  "description": "API for interacting with jepso-ci config files",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jepso-ci/jepso-ci-config.git"
+  },
+  "keywords": [
+    "jepso-ci"
+  ],
+  "author": "ForbesLindesay",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.8.1",
+    "mocha-as-promised": "~1.2.1"
+  },
+  "dependencies": {
+    "q": "~0.8.12",
+    "request": "~2.14.0"
+  }
+}
