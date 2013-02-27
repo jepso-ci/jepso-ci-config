@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "API for interacting with jepso-ci config files",
   "scripts": {
-    "test": "mocha -R spec"
+    "test": "mocha -R spec",
+    "prepublish": "npm test"
   },
   "repository": {
     "type": "git",
