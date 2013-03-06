@@ -16,11 +16,13 @@
   "author": "ForbesLindesay",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "~1.8.1",
-    "mocha-as-promised": "~1.2.1"
+    "mocha": "~1.8",
+    "mocha-as-promised": "~1.2",
+    "sinon": "~1.6"
   },
   "dependencies": {
-    "q": "~0.8.12",
-    "request": "~2.14.0"
+    "q": "~0.9",
+    "request": "~2.14",
+    "test-platforms": "~2.0"
   }
 }
