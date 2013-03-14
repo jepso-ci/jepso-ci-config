@@ -5,8 +5,8 @@ var conf = require('../');
 
 describe('load remote', function () {
   it('loads the jepso-ci config of a repo', function () {
-    this.timeout(20000);
-    this.slow(10000);
+    this.timeout(10000);
+    this.slow(2000);
     return conf.loadRemote('jepso-ci-examples', 'minimum', 'master')
       .then(function (res) {
         assert(conf.validate(res));

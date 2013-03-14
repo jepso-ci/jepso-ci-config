@@ -22,7 +22,8 @@
   },
   "dependencies": {
     "q": "~0.9",
-    "request": "~2.14",
-    "test-platforms": "~2.0"
+    "test-platforms": "~2.0",
+    "concat-stream": "~0.1.1",
+    "hyperquest": "~0.1.0"
   }
 }
