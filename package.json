@@ -1,6 +1,6 @@
 {
   "name": "jepso-ci-config",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "API for interacting with jepso-ci config files",
   "scripts": {
     "test": "mocha -R spec",
