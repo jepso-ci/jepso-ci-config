@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/jepso-ci/jepso-ci-config.png?branch=master)](https://travis-ci.org/jepso-ci/jepso-ci-config)
-[![Dependency Status](https://david-dm.org/jepso-ci/jepso-ci-config.png)](https://gemnasium.com/jepso-ci/jepso-ci-config)
+[![Dependency Status](https://img.shields.io/david/jepso-ci/jepso-ci-config.svg)](https://david-dm.org/jepso-ci/jepso-ci-config)
 
 # jepso-ci-config
 
